@@ -10,7 +10,7 @@
   - **Nominal:** No natural order (e.g., color: red, blue, green).
   - **Ordinal:** Has order but not evenly spaced (e.g., education level: primary, secondary, university).
 
-### Continuous (Numerical) Data
+### Numerical Data
 - **Definition:** Data that can take any numeric value within a range.  
   Example: Age, Salary, Temperature.
 - **Properties:** Quantitative — can be measured, averaged, and used in mathematical operations.
